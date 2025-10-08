@@ -1,0 +1,54 @@
+[
+  {
+    "id": "flutter-basics",
+    "title": "Dasar-Dasar Flutter",
+    "description": "Pelajari cara membangun aplikasi mobile cross-platform dari nol dengan Dart. Kursus ini mencakup fundamental widget, layout, navigasi, dan state management sederhana untuk membuat Anda siap membangun aplikasi pertama Anda.",
+    "icon": "phone_android",
+    "imageUrl": "assets/images/image_academy.png",
+    "price": null,
+    "instructor": {
+      "name": "Egin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109951"
+    },
+    "schedule": "Setiap Senin & Rabu"
+  },
+  {
+    "id": "state-management",
+    "title": "Manajemen State",
+    "description": "Kuasai teknik manajemen state modern seperti Provider dan BLoC untuk aplikasi kompleks. Pahami lifecycle state dan cara memilih solusi yang tepat untuk skala proyek yang berbeda, dari kecil hingga besar.",
+    "icon": "account_tree_sharp",
+    "imageUrl": "assets/images/image_academy.png",
+    "price": "Rp 75.000",
+    "instructor": {
+      "name": "Budi Santoso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109952"
+    },
+    "schedule": "Setiap Selasa & Kamis"
+  },
+  {
+    "id": "firebase-integration",
+    "title": "Integrasi Firebase",
+    "description": "Gunakan Firebase untuk otentikasi, database realtime Firestore, dan cloud functions. Pelajari cara membuat backend yang kuat untuk aplikasi Flutter Anda tanpa perlu mengelola server sendiri.",
+    "icon": "local_fire_department_rounded",
+    "imageUrl": "assets/images/image_academy.png",
+    "price": "Rp 90.000",
+    "instructor": {
+      "name": "Cahya Kurniawan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109953"
+    },
+    "schedule": "Setiap Jumat"
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design",
+    "description": "Prinsip desain fundamental untuk membuat antarmuka yang indah dan fungsional. Pelajari tentang teori warna, tipografi, hierarki visual, dan prototyping untuk menciptakan pengalaman pengguna yang luar biasa.",
+    "icon": "design_services",
+    "imageUrl": "assets/images/image_academy.png",
+    "price": null,
+    "instructor": {
+      "name": "Rina Wijaya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109954"
+    },
+    "schedule": "Self-Paced Learning"
+  }
+]
